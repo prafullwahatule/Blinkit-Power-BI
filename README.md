@@ -1,43 +1,54 @@
-# 🟡 Blinkit Power BI Dashboard
-India’s Last-Minute App — Sales & Performance Analysis Dashboard
-## 📊 Overview
+# 🟡 Blinkit Power BI Dashboard  
+### _India’s Last-Minute App — Sales & Performance Analysis Dashboard_
 
-This project is a Power BI dashboard built to analyze Blinkit’s sales performance across different outlets, item types, and locations.
-It provides interactive insights into total sales, average sales, outlet performance, fat content, and item categories, helping decision-makers understand trends and improve business strategies.
+---
 
-## 🗂️ Project Structure
+## 📊 Overview  
+
+This project is a **Power BI dashboard** built to analyze **Blinkit’s sales performance** across different outlets, item types, and locations.  
+It provides interactive insights into **total sales, average sales, outlet performance, fat content, and item categories**, helping decision-makers understand trends and improve business strategies.
+
+---
+
+## 🗂️ Project Structure  
+```
 Blinkit/
 │
-├── 📁 docs/         → Documentation, project details, and notes  
-├── 📁 power bi/     → Power BI files (.pbix) and datasets  
-├── 📁 visuals/      → Dashboard screenshots and visualization exports  
-└── README.md        → Project overview and setup guide  
+├── 📁 docs/ → Documentation, project details, and notes
+├── 📁 power bi/ → Power BI files (.pbix) and datasets
+├── 📁 visuals/ → Dashboard screenshots and visualization exports
+└── README.md → Project overview and setup guide
+```
 
-## 🚀 Features
+---
 
-📈 Total & Average Sales analysis
+## 🚀 Features  
 
-🏪 Outlet Performance by type, size, and location
+- 📈 **Total & Average Sales** analysis  
+- 🏪 **Outlet Performance** by type, size, and location  
+- 🍞 **Item Type Insights** (snacks, dairy, frozen food, etc.)  
+- ⚖️ **Fat Content Comparison** (Low Fat vs Regular)  
+- ⭐ **Average Rating Visualization**  
+- 📆 **Outlet Establishment Trends** over years  
 
-🍞 Item Type Insights (snacks, dairy, frozen food, etc.)
+---
 
-⚖️ Fat Content Comparison (Low Fat vs Regular)
+## 🛠️ Tools & Technologies  
 
-⭐ Average Rating Visualization
+- **Microsoft Power BI** – Dashboard creation  
+- **Excel / CSV Datasets** – Data source  
+- **Git & GitHub** – Version control  
+- **Canva / Figma** – Used for minor UI design & background styling  
 
-📆 Outlet Establishment Trends over years
+---
 
-🛠️ Tools & Technologies
+## 📸 Dashboard Preview  
 
-- Microsoft Power BI – Dashboard creation
+_Add a screenshot of your dashboard here (recommended name: `visuals/dashboard-preview.png`)_
 
-- Excel / CSV Datasets – Data source
-
-- Git & GitHub – Version control
-
-- Canva / Figma – Used for minor UI design & background styling
-
-## 📸 Dashboard Preview
+```markdown
+![Blinkit Dashboard Preview](./visuals/dashboard-preview.png)
+```
 
 ## 🧠 Insights Gained
 
@@ -56,9 +67,11 @@ Clone the repository:
 git clone https://github.com/prafullwahatule/Blinkit-Power-BI.git
 
 
-Open the .pbix file inside the power bi folder using Power BI Desktop.
+Open the Power BI file:
+Navigate to the power bi folder and open the .pbix file using Power BI Desktop.
 
-Explore the dashboard and interact with the filters.
+Explore:
+Interact with filters, visuals, and analyze key performance metrics.
 
 ## 🤝 Contribution
 
@@ -71,6 +84,6 @@ Prafull Wahatule
 📧 [Email Placeholder]
 🔗 GitHub Profile
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, consider giving it a star 🌟 on GitHub to show your support!
