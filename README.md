@@ -80,11 +80,11 @@ Interact with filters, visuals, and analyze key performance metrics.
 Feel free to fork this repository and improve the visuals or add more datasets.
 Pull requests are always welcome!
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author  
 
-Prafull Wahatule
-📧 prafullwahatule@gmail.com
-🔗 GitHub Profile
+**Prafull Wahatule**  
+📧 [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+🔗 [GitHub Profile](https://github.com/prafullwahatule)
 
 ## ⭐ Support
 
