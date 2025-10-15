@@ -83,7 +83,7 @@ Pull requests are always welcome!
 ## 🧑‍💻 Author
 
 Prafull Wahatule
-📧 [Email Placeholder]
+📧 prafullwahatule@gmail.com
 🔗 GitHub Profile
 
 ## ⭐ Support
